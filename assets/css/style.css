@@ -22,3 +22,12 @@ p {
 .center {
 	text-align: center;
 }
+
+#main-container #submitButton {
+	padding: 14px 40px;
+	border-radius: 8px;
+	background-color: green;
+	margin-top: 50px;
+	margin-bottom: 30px;
+	text-align: center;
+}
